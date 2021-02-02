@@ -1,4 +1,4 @@
-Topic-based Event Timeline
+#Topic-based Event Timeline
 
 This is a machine learning project at university of amsterdam in collaboration with: 
 Lowie de Beer, Sebastiaan Dijkstra, Dilyar Buzan, Jacco Kortman. 
