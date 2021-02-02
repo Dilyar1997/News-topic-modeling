@@ -1,6 +1,6 @@
 # Blendle - Topic-based Event Timeline
 
-This is a machine learning project in collaboration with: 
+This is a machine learning project at university of amsterdam in collaboration with: 
 Lowie de Beer, Sebastiaan Dijkstra, Dilyar Buzan, Jacco Kortman. 
 
 In Blendle’s words: “News develops. Real-world events rarely stand by themselves.” A great timeline helps the reader understand how news stories develop and how events are related. Yet, creating a timeline by hand takes a lot of labor hours which results in high personnel costs. Therefore, automating this process would be of high value for Blendle. Their challenge consisted of extracting key news events from a large dataset of articles for the following topics: The coronavirus, Black Lives Matter, Brexit, Formula 1, and putting these in a comprehensive timeline. Finally, the solution should generalize beyond this list of topics.
